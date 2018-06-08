@@ -1,7 +1,6 @@
 # flappy-pokemon
 * 語言
-
-java
+ java
 * 開發軟體
 
 eclipse
