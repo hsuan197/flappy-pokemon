@@ -24,3 +24,14 @@ P跳躍
 * 階梯模式
 按左右鑑移動
 撞到紅方塊、離開畫面Game Over
+
+* find_song
+
+	* Input: "vast & hazy"
+		* Reply: 歌曲youtube 網址、歌詞
+
+	* Input: "歸屬"
+		* Reply: 歌曲youtube 網址、歌詞
+		
+	* Input: "食人夢"
+		* Reply: 歌曲youtube 網址、歌詞
