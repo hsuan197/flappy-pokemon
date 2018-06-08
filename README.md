@@ -27,13 +27,10 @@ P跳躍
 按左右鑑移動
 撞到紅方塊、離開畫面Game Over
 
-* find_song
+* 一般模式
 
-	* Input: "vast & hazy"
-		* Reply: 歌曲youtube 網址、歌詞
+	* 滑鼠左鍵跳躍
 
-	* Input: "歸屬"
-		* Reply: 歌曲youtube 網址、歌詞
+	* 空白件攻擊
 		
-	* Input: "食人夢"
-		* Reply: 歌曲youtube 網址、歌詞
+	* 撞到敵人、水管、離開畫面Game Over
